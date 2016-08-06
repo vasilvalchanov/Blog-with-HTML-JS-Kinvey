@@ -1,4 +1,4 @@
-# Blog-with-HTML-JS-Kinvey
+# Blog with HTML JavaScript and Kinvey
 
 - This is a project part of my Software Technologies Course at SoftUni.
 
